@@ -1,9 +1,9 @@
 # Makefile
 A general Makefile using recursive make in Linux
 
-##Objective : To understand makefiles 
+## Objective : To understand makefiles 
 
-##Implementation Details:
+## Implementation Details:
 
     • I created 4 directories 1,2,3,4 in the project folder ‘Top’. 
     • Each of the above directory had a funciton’i’.c file and a Makefile which created a corresponding object file for these .c files in the ‘obj’ directory
